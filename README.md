@@ -58,23 +58,3 @@ git clone https://github.com/your-username/bcg-data-science-program.git
 cd bcg-data-science-program
 pip install -r requirements.txt
 
-🌟 Results Snapshot
-Built predictive models (e.g., Logistic Regression, Decision Trees) to forecast key outcomes.
-
-Created meaningful features to improve model performance.
-
-Provided strategic recommendations based on model results and business impact.
-
-🧠 What I Learned
-✔️ Approaching business problems with a data science mindset
-✔️ Feature engineering to boost model performance
-✔️ Building interpretable and impactful ML models
-✔️ Translating technical outputs into business strategies
-
-✨ About BCG
-Boston Consulting Group (BCG) is a leading global consulting firm, partnering with leaders in business and society to tackle their most important challenges and capture their greatest opportunities.
-
-🔗 Learn more about BCG here!
-
-🔥 Thank You For Visiting!
-⭐ Feel free to Fork, Star, and Connect!
