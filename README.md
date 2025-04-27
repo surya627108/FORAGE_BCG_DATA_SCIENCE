@@ -1,7 +1,4 @@
-# FORAGE_BCG_DATA_SCIENCE
-<p align="center">
-  <img src="https://your-banner-link-here.com/banner.png" alt="BCG Data Science Program" width="100%" />
-</p>
+
 
 # 📊 BCG Data Science Virtual Experience Program
 
